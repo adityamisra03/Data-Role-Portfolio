@@ -1,0 +1,192 @@
+﻿Bicluster,Overlapping
+pita_100,IRF1
+pita_113,ELF1
+pita_122,NFKB1
+pita_126,NFKB1
+pita_133,MYB
+pita_135,ETV7 TBX10
+pita_14,MAFB
+pita_141,KLF1 TFAP2C ZIC5
+pita_145,ISL1 MYB ONECUT2 SOX9 TFAP2C ZFP42
+pita_150,IKZF1 IRF1
+pita_155,ZNF281
+pita_160,E2F4
+pita_163,ESX1 ISX TBX10
+pita_204,TEAD2
+pita_215,ESX1
+pita_229,ETV7 PPARG
+pita_254,KLF4
+pita_262,NFKB1
+pita_266,NFKB1
+pita_280,GATA1 NR2F1 TFAP2C
+pita_282,IRF1
+pita_300,TBX10
+pita_305,IRF1
+pita_317,CREB5 KLF1 SMAD9
+pita_320,CREB3L3 E2F4 TFAP2C
+pita_337,RARA
+pita_354,NFKB1
+pita_378,IRF1 TCF4
+pita_4,NR2F1
+pita_411,TBX21
+pita_413,ELF1
+pita_452,IRF1
+pita_46,KLF2
+pita_462,E2F8 TRIM28 ZNF281
+pita_469,TCF3
+pita_475,ONECUT2
+pita_482,KLF12
+pita_534,NFKB1
+pita_545,TFCP2L1
+pita_560,ELF1
+pita_571,IRF4
+pita_58,ZNF217
+pita_582,NFKB1
+pita_589,RARA ZIC5
+pita_591,ETV7 ZIC5
+pita_594,IRF1
+pita_596,GATA2
+pita_605,CEBPD CEBPE KLF6
+pita_607,ELF1
+pita_61,ELF1
+pita_66,TBX10
+pita_71,ETV6 TFAP2C
+pita_74,KLF2
+targetscan_10,TFCP2L1
+targetscan_103,IRF1
+targetscan_118,ETV7
+targetscan_12,IRF1
+targetscan_125,MAFB
+targetscan_135,TBX10
+targetscan_140,GATA1 GATA3 ZHX3
+targetscan_142,E2F7
+targetscan_143,ELF1
+targetscan_171,ZNF217
+targetscan_173,IRF1 NFKB1
+targetscan_183,SPDEF
+targetscan_188,IRF1
+targetscan_218,TBX4
+targetscan_223,TFCP2L1
+targetscan_231,ETV7 HAND1 IRF4
+targetscan_241,RELB
+targetscan_246,TCF4
+targetscan_269,NFKB1
+targetscan_286,TEAD2
+targetscan_287,PPARG
+targetscan_288,IRF1
+targetscan_292,IRF4
+targetscan_313,TEAD2 ZNF281
+targetscan_328,ETV6
+targetscan_339,IRF1
+targetscan_344,RELB
+targetscan_350,ETS2
+targetscan_356,RARA
+targetscan_369,CREB3L3 GATA1
+targetscan_380,TCF4
+targetscan_381,ELF1
+targetscan_391,ELF1 ETV6 ETV7 TBX10
+targetscan_400,ASCL2
+targetscan_404,GABPA
+targetscan_411,ELF1
+targetscan_413,KLF12 ZEB1
+targetscan_414,ELF1
+targetscan_417,IRF1
+targetscan_429,HAND1 SOX9 TBX10
+targetscan_454,ELF1
+targetscan_456,ELF1 ETV6
+targetscan_467,MYB
+targetscan_482,JUNB
+targetscan_484,ELK3 ETV6
+targetscan_486,MAFB
+targetscan_502,RBPJ ZIC5
+targetscan_517,PPARG
+targetscan_530,ETV6 NFKB1
+targetscan_531,MYB
+targetscan_533,IRF1
+targetscan_541,ELF1 IRF1 PPARG
+targetscan_545,KLF12
+targetscan_565,NFIA
+targetscan_571,ZNF281
+targetscan_576,ELF1 IRF1
+targetscan_580,E2F3
+targetscan_59,SOX4
+targetscan_592,ETV7
+targetscan_60,ELF1 ETV7
+targetscan_602,CREB3L3 IRF4 TFAP2C ZIC5
+targetscan_603,PPARG
+targetscan_67,IRF4
+targetscan_82,IRF4
+targetscan_83,GATA2
+targetscan_85,ELF1
+targetscan_9,ETV6 IRF1
+targetscan_91,KLF2
+tfbs_db_10,ZNF281
+tfbs_db_107,JUNB
+tfbs_db_113,ZIC5
+tfbs_db_115,ETV7
+tfbs_db_116,TBX10
+tfbs_db_118,RELB
+tfbs_db_12,TFAP2C
+tfbs_db_121,RARG
+tfbs_db_122,MYB
+tfbs_db_130,ELF1
+tfbs_db_152,NFKB1
+tfbs_db_163,ELF1
+tfbs_db_168,ELF1
+tfbs_db_17,ZNF281
+tfbs_db_180,MYB
+tfbs_db_181,ELF1 ETV7
+tfbs_db_182,TFAP2C ZHX3
+tfbs_db_186,ELF1 IRF1
+tfbs_db_187,ELK1
+tfbs_db_198,ELF1
+tfbs_db_203,E2F3 KLF1 KLF17 SMAD9
+tfbs_db_212,ZHX3
+tfbs_db_218,ETS2
+tfbs_db_230,CEBPE
+tfbs_db_239,EGR3
+tfbs_db_253,ETV7
+tfbs_db_257,IRF1
+tfbs_db_263,CREB1 E2F4
+tfbs_db_266,CREB3L3 TBX10 TFAP2C ZIC5
+tfbs_db_276,TBX10
+tfbs_db_281,KLF12 PPARG ZNF148
+tfbs_db_282,PPARG
+tfbs_db_293,ZIC5
+tfbs_db_294,E2F4
+tfbs_db_295,MGA
+tfbs_db_326,IKZF1 IRF1
+tfbs_db_331,ELF1 PPARG
+tfbs_db_351,TFAP2C
+tfbs_db_373,ELF1
+tfbs_db_39,NFKB1
+tfbs_db_401,ELF1
+tfbs_db_417,ELF1
+tfbs_db_42,CREB1
+tfbs_db_426,ETV1 RARG TCF4 TFAP2C
+tfbs_db_43,IRF1 ZNF281
+tfbs_db_435,RXRB SMAD9 TFCP2L1
+tfbs_db_453,RUNX3
+tfbs_db_456,ELF1 IRF1
+tfbs_db_473,KLF6
+tfbs_db_480,TFCP2L1 ZSCAN4
+tfbs_db_486,MGA
+tfbs_db_490,LEF1
+tfbs_db_507,IRF1
+tfbs_db_516,TBX10
+tfbs_db_522,ELF1
+tfbs_db_525,ZNF281
+tfbs_db_529,ETV7 HOXD3
+tfbs_db_537,IRF1
+tfbs_db_541,SOX5
+tfbs_db_546,ASCL2
+tfbs_db_559,IRF1
+tfbs_db_574,ETV7
+tfbs_db_581,ELF1 TCF4
+tfbs_db_586,PPARG
+tfbs_db_587,IRF1
+tfbs_db_589,IRF1
+tfbs_db_60,SPDEF
+tfbs_db_609,TBX10
+tfbs_db_76,TCF3
+tfbs_db_95,RARA TBX10 ZIC5
